@@ -1,10 +1,10 @@
 \name{file_dir}
 \alias{file_dir}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{file_dir uses the rstudioapi to set the current directory to the files directory
 %%  ~~function to do ... ~~
 }
-\description{file_dir uses the rstudioapi to set the current directory to the files directory
+\description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
